@@ -1,27 +1,27 @@
 {
   "heroes": [
     {
-      "id": 2,
-      "name": "Неизвестный герой",
-      "description": "Скрывающийся в тени",
+      "id": 1,
+      "name": "Persone 1",
+      "description": "Lorem ipsum",
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "id": 2,
+      "name": "Persone 2",
+      "description": "Lorem ipsum",
       "element": "water"
     },
     {
-      "id": "7db4912d-513c-4c9c-8908-96e9c858853c",
-      "name": "rrfwef",
-      "description": "wfwfw",
+      "id": 3,
+      "name": "Persone 3",
+      "description": "Lorem ipsum",
       "element": "fire"
     },
     {
-      "id": "f7878425-6a59-498e-83d6-80e579776238",
-      "name": "Dima",
-      "description": "asfs",
+      "id": 4,
+      "name": "Persone 4",
+      "description": "Lorem ipsum",
       "element": ""
     }
   ],
@@ -29,31 +29,31 @@
     {
       "id": "all",
       "name": "all",
-      "label": "Все",
+      "label": "All",
       "className": "btn-outline-dark"
     },
     {
       "id": "fire",
       "name": "fire",
-      "label": "Огонь",
+      "label": "Fire",
       "className": "btn-danger"
     },
     {
       "id": "water",
       "name": "water",
-      "label": "Вода",
+      "label": "Water",
       "className": "btn-primary"
     },
     {
       "id": "wind",
       "name": "wind",
-      "label": "Ветер",
+      "label": "Wind",
       "className": "btn-success"
     },
     {
       "id": "earth",
       "name": "earth",
-      "label": "Земля",
+      "label": "Warth",
       "className": "btn-secondary"
     }
   ]
