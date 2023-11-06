@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /*
+       Change default values for "rem"
+       by default browser default font size "16px"
+       "rems" are always reference to root element (1rem = 16px)
+       :root (pseudo) more higher than html element */
+
+    font-size: 62.5%;
+}
+
+/* Example */
+p {
+    font-size: 3rem;
+    /* It will be 30px in browser window */
+}
+
+/* Best practise will be using increment if 0.25rem (4px) on each "rm" */
+/* Example */
+
+h1:nth-child(5) { font-size: 1rem;}
+h1:nth-child(4) { font-size: 1.25rem;}
+h1:nth-child(3) { font-size: 1.5rem;}
+h1:nth-child(2) { font-size: 1.75rem;}
+h1:nth-child(1) { font-size: 2rem;}
+
